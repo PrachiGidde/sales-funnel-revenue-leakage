@@ -15,6 +15,13 @@ and estimate recoverable revenue leakage.
 - Spotted potential revenue leakage in zero-value Won deals
 - Null values investigated and explained
 
+  ## Day 2 — Funnel Analysis & Revenue Leakage
+- Built complete sales funnel with conversion rates
+- Overall win rate: 48.2% (every second deal lost)
+- Identified $2.69M in recoverable revenue (26.9% of won revenue)
+- GTX Basic product responsible for 21.1% of all lost deals
+- Central region accounts for 39.4% of all lost deals
+
 ## Tools Used
 - Python, Pandas, NumPy
 - Google Colab
