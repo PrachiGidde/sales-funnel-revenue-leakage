@@ -46,13 +46,27 @@ drop-offs and estimate recoverable revenue leakage across
 - Chart 4: Lost deals by region — Central 39.4%
 - Chart 5: Product performance — Won vs Lost
 
-## Tools Used
-- Python, Pandas, NumPy, Matplotlib, Seaborn
-- Google Colab
-
 ## How to Run
 1. Clone this repository
 2. Download dataset from Kaggle link above
 3. Open the notebook in Google Colab
 4. Upload CSV files to your Google Drive
 5. Run all cells in order
+
+## Day 4 — Power BI Dashboard
+- Built interactive dashboard with 4 KPI cards
+- Funnel distribution visual
+- Revenue leakage breakdown chart
+- Lost deals by region chart
+- Won deals by product chart
+- Tools: Power BI Desktop
+
+### Dashboard Preview
+![Dashboard](dashboard_screenshot.png)
+
+## Tools Used
+- Python, Pandas, NumPy, Matplotlib, Seaborn
+- Google Colab
+- Power BI Desktop
+
+## Project Status: Complete ✅
